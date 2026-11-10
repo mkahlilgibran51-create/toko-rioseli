@@ -1,0 +1,8 @@
+{
+  "appId": "id.rioseli.kasir",
+  "appName": "Toko Silawati Rioseli",
+  "webDir": "dist",
+  "backgroundColor": "#FBF3EC",
+  "server": { "androidScheme": "http", "cleartext": true },
+  "android": { "allowMixedContent": true }
+}
